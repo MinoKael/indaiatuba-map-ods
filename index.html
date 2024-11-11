@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mapa Interativo de Indaiatuba</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="icon" type="image/png" href="map-pin.png" />
+    <style>
+        #map { height: 95vh; width: 100%; margin: 0; }
+        .legend {
+            background-color: white;
+            padding: 10px;
+            line-height: 18px;
+            color: #333;
+        }
+        .legend i {
+            width: 18px;
+            height: 18px;
+            float: left;
+            margin-right: 8px;
+            opacity: 0.7;
+        }
+        img.saude { filter: hue-rotate(90deg); }
+        img.social { filter: hue-rotate(140deg); }
+        img.educacao { filter: hue-rotate(240deg); }
+        img.turismo { filter: hue-rotate(0deg); }
+        img.esporte { filter: hue-rotate(180deg); }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+
+    <script>
+        var map = L.map('map').setView([-23.094911597914825, -47.214351841393174], 13); 
+        
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+        legendas = [
+            { nome: "Unidades Públicas de Saúde", cor: "#ff73df", },
+            { nome: "Unidades de Assistência Social", cor: "#ff0000", },
+            { nome: "Unidades Públicas de Educação", cor: "#54ff00", },
+            { nome: "Pontos Turísticos e Equipamentos de Cultura", cor: "#0084a8", },
+            { nome: "Equipamentos de Esporte e Lazer", cor: "#cb8d3c", },
+        ];
+
+        var legendaBox = L.control({ position: 'bottomleft' });
+        legendaBox.onAdd = function (map) {
+            var div = L.DomUtil.create('div', 'legend');
+            div.innerHTML += "<h3 style='margin:0 0 10px 0;'>Legenda</h3>";
+            legendas.forEach(function(categoria) { div.innerHTML += '<div style="margin: 5px 0;"><i style="border: 1px solid black;background:' + categoria.cor + '"></i> ' + '<span>' + categoria.nome + '</span></div>'; });
+            return div;
+        };
+        legendaBox.addTo(map);
+
+        fetch('locais.json')
+            .then(res => res.json())
+            .then(locais => {
+                locais.forEach(function(local) {
+                    const marker = L.marker([local.lat, local.lng], { title: local.descricao }).addTo(map)
+                    .bindPopup("<b>" + local.descricao + "</b></br><a target='_blank' href='"+ local.link +"'>Ver no Google Maps</a>");
+                    marker._icon.classList.add(local.class);
+                });
+            })
+        
+        L.polygon([
+            [-23.04205861155452, -47.29963573223704],
+            [-23.151293400227003, -47.29963573223704],
+            [-23.151293400227003, -47.12979055394866],
+            [-23.04205861155452, -47.12979055394866]
+        ], {
+            color: 'blue',
+            weight: 2,
+            dashArray: '5,5',
+            fillOpacity: 0
+        }).addTo(map);
+    </script>
+</body>
+</html>
