@@ -106,7 +106,6 @@
                 locais.forEach(function(local) {
                     const marker = L.marker([local.lat, local.lng], { title: local.descricao, icon: icons[local.class]},).addTo(map)
                     .bindPopup("<b>" + local.descricao + "</b></br><a target='_blank' href='"+ local.link +"'>Ver no Google Maps</a>");
-                    marker._icon.classList.add(local.class);
                     marker.on('mouseover', function(ev) {
                         marker.openPopup();
                     });
