@@ -1,737 +1,1017 @@
 [
-    {
-       "lat":-23.062059,
-       "lng":-47.137830,
-       "descricao":"CRAS V",
-       "link":"https://maps.app.goo.gl/hzyERjV4AvYqGMMy8",
-       "class":"social"
-    },
-    {
-       "lat":-23.063474,
-       "lng":-47.139385,
-       "descricao":"Escola Municipal Dom Ildefonso Stehle",
-       "link":"https://maps.app.goo.gl/CLL9wk5TB5KJb1Yj9",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.067454,
-       "lng":-47.17778,
-       "descricao":"Creche Municipal Vera Tosca M. B.",
-       "link":"https://maps.app.goo.gl/WpD8L6GF5N2HDYKk8",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.068038,
-       "lng":-47.178219,
-       "descricao":"PSF Jardim Carlos Aldrovandi",
-       "link":"https://maps.app.goo.gl/pxYErLNZSDM76QCZA",
-       "class":"saude"
-    },
-    {
-       "lat":-23.068857,
-       "lng":-47.177390,
-       "descricao":"Complexo Esportivo Carlos Aldrovandi",
-       "link":"https://maps.app.goo.gl/UMxfdLuBtDqYK4nY7",
-       "class":"esporte"
-    },
-    {
-       "lat":-23.068686,
-       "lng":-47.177861,
-       "descricao":"EMEB Profª. Maria Albertina Bannwart Berdu",
-       "link":"https://maps.app.goo.gl/XobgUB4M5FPikcb68",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.054782,
-       "lng":-47.209005,
-       "descricao":"Emeb Renata Guimarães Brandão Anadão",
-       "link":"https://maps.app.goo.gl/3gTiyPWg1SLXVhjK7",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.061208816315844,
-       "lng":-47.21980920987831,
-       "descricao":"EMEB Prof Antonio Luiz Balaminuti",
-       "link":"https://maps.app.goo.gl/xRwn7Pqtzcnrq7gg7",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.064151539829137,
-       "lng":-47.21747040192905,
-       "descricao":"UBS Prq Residencial Indaiá",
-       "link":"https://maps.app.goo.gl/YBL6BJMGcDcFweVb6",
-       "class":"saude"
-    },
-    {
-       "lat":-23.08816564920366,
-       "lng":-47.16664483557818,
-       "descricao":"CRAS II",
-       "link":"https://maps.app.goo.gl/FXevfBM6pT2EfhTH7",
-       "class":"social"
-    },
-    {
-       "lat":-23.089047173148735,
-       "lng":-47.172031034914504,
-       "descricao":"EMEB Sylvia Teixeira de Camargo Sannazzaro",
-       "link":"https://maps.app.goo.gl/sty9svjTf6JGryF1A",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.108113131935166,
-       "lng":-47.18199018841549,
-       "descricao":"Creche Mãe Rainha",
-       "link":"https://maps.app.goo.gl/1QTzBFhh5yNAYT6BA",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.113228199971918,
-       "lng":-47.18589642795672,
-       "descricao":"Vila Manresa",
-       "link":"https://maps.app.goo.gl/CGAUDjSx1bjYkU2v5",
-       "class":"turismo"
-    },
-    {
-       "lat":-23.1124311704393,
-       "lng":-47.204125319049666,
-       "descricao":"Praça Centro Recreativo e de Lazer Jurandir Lu da Silva",
-       "link":"https://maps.app.goo.gl/JcDsXdkGbwbQcast5",
-       "class":"esporte"
-    },
-    {
-       "lat":-23.109806819877836,
-       "lng":-47.20218525053492,
-       "descricao":"CRAS I",
-       "link":"https://maps.app.goo.gl/tZmh9bT1ErWF2HRw5",
-       "class":"social"
-    },
-    {
-       "lat":-23.136143066345674,
-       "lng":-47.167620915104706,
-       "descricao":"Emeb Doardo Borsari",
-       "link":"https://maps.app.goo.gl/bJBxRuUH4q6CrMxVA",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.109099430477936,
-       "lng":-47.20569023798384,
-       "descricao":"EMEB Prof. Wladimir Olivier",
-       "link":"https://maps.app.goo.gl/eraE1hRsAKB4mTXR7",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.109405890568542,
-       "lng":-47.204743630547284,
-       "descricao":"EE Profª Deolinda Maneira Severo",
-       "link":"https://maps.app.goo.gl/AuJZ7EXviqaP7uWU7",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.109295589799284,
-       "lng":-47.20498201557711,
-       "descricao":"EMEB e Creche Prof. Galdino Augusto Lopes Chagas",
-       "link":"https://maps.app.goo.gl/FPoqKS5ZULqY1y9Q8",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.109354500822025,
-       "lng":-47.204456622745305,
-       "descricao":"UBS Jd Oliveira Camargo - Unidade Básica de Saúde",
-       "link":"https://maps.app.goo.gl/eSX1ZEFNFZSVG2Rg7",
-       "class":"saude"
-    },
-    {
-       "lat":-23.063741197441278,
-       "lng":-47.26069516254738,
-       "descricao":"Trilha Indaiatuba",
-       "link":"https://maps.app.goo.gl/2UHCWpTJrW1AxbFJ6",
-       "class":"turismo"
-    },
-    {
-       "lat":-23.084421570875485,
-       "lng":-47.181714880581296,
-       "descricao":"Museu da Água de Indaiatuba",
-       "link":"https://maps.app.goo.gl/EDbDqGGyRrm2W3VC8",
-       "class":"turismo"
-    },
-    {
-       "lat":-23.076501076254637,
-       "lng":-47.19231301639584,
-       "descricao":"Emeb Prof. Wellington Lombardi Soares",
-       "link":"https://maps.app.goo.gl/xjoZ3G3KWbZB3Csf6",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.07600329088565,
-       "lng":-47.19235533900826,
-       "descricao":"Creche Municipal Jorge Alves Brown",
-       "link":"https://maps.app.goo.gl/VKHqVm1uMTLpiLbx9",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.0761936951351,
-       "lng":-47.19261969702153,
-       "descricao":"Camargo Andrade",
-       "link":"https://maps.app.goo.gl/dwgqygpnPMUHEv2M8",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.076208,
-       "lng":-47.191404,
-       "descricao":"UBS Jardim Carlos Augusto Camargo Andrade",
-       "link":"https://maps.app.goo.gl/pA9VtegdbokmeJd79",
-       "class":"saude"
-    },
-    {
-       "lat":-23.073770097194057,
-       "lng":-47.19444879478326,
-       "descricao":"EMEB Prof João Emílio Angelieri",
-       "link":"https://maps.app.goo.gl/m3rfDWRRfCNrn6S39",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.07877790696232,
-       "lng":-47.199541793426185,
-       "descricao":"EMEB Prof.ª Maria Conceição Giacomini Bega",
-       "link":"https://maps.app.goo.gl/grRJaTzi1hxyjbcb8",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.07743294159959,
-       "lng":-47.2017094151418,
-       "descricao":"Centro Esportivo Doutor José Pedro C. da Silva",
-       "link":"https://maps.app.goo.gl/WBjyxX1Qq2ZG3Mcz7",
-       "class":"esporte"
-    },
-    {
-       "lat":-23.079672394794354,
-       "lng":-47.20175600704757,
-       "descricao":"EMEB Vicente Bernardinetti",
-       "link":"https://maps.app.goo.gl/nGGgFX4dUYL3wCLN6",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.07488366855924,
-       "lng":-47.206208004125905,
-       "descricao":"Creche Prof José Pavani",
-       "link":"https://maps.app.goo.gl/hEwao9pKaxAickJy9",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.07683850559436,
-       "lng":-47.21519556845309,
-       "descricao":"Concha Acústica",
-       "link":"https://maps.app.goo.gl/kR52BPhF18Sutgve9",
-       "class":"turismo"
-    },
-    {
-       "lat":-23.078952239859717,
-       "lng":-47.218227407057505,
-       "descricao":"Escola Municipal de Educação Infantil Lucia Steffen Profa",
-       "link":"https://maps.app.goo.gl/uCJ6MDEVARwiYC9x6",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.086621842739856,
-       "lng":-47.189352771994876,
-       "descricao":"Parque das Frutas",
-       "link":"https://maps.app.goo.gl/afE7j8gf8rX7kVg58",
-       "class":"turismo"
-    },
-    {
-       "lat":-23.090515402518356,
-       "lng":-47.18936630511939,
-       "descricao":"EMEB Prof. Osório Germano e Silva Filho",
-       "link":"https://maps.app.goo.gl/F9QPwoAjuFiAQyws7",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.090822222490505,
-       "lng":-47.192183255158355,
-       "descricao":"EMEB Miyoji Takahara",
-       "link":"https://maps.app.goo.gl/3w4sGLSwdN49ACWu7",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.093298008462835,
-       "lng":-47.19438884422488,
-       "descricao":"Teatro Municipal",
-       "link":"https://maps.app.goo.gl/pgLm5XzAeCqTzF3K6",
-       "class":"esporte"
-    },
-    {
-       "lat":-23.08998949831382,
-       "lng":-47.20114376495235,
-       "descricao":"EMEB Archimedes Prandini",
-       "link":"https://maps.app.goo.gl/q4eXwv8E9iN6xenYA",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.091170287563333,
-       "lng":-47.202849614815634,
-       "descricao":"Centro de Treinamento de Ginástica",
-       "link":"https://maps.app.goo.gl/UbMFtQnAaYo7QYKX6",
-       "class":"esporte"
-    },
-    {
-       "lat":-23.08808818255655,
-       "lng":-47.20245749797731,
-       "descricao":"Hospital Dia",
-       "link":"https://maps.app.goo.gl/VKRTFNr89X96N8Mf8",
-       "class":"saude"
-    },
-    {
-       "lat":-23.08742631831144,
-       "lng":-47.20216879909992,
-       "descricao":"Casa da Criança Jesus de Nazaré",
-       "link":"https://maps.app.goo.gl/H4KWHwjPZUbguW9w9",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.085954763949346,
-       "lng":-47.20257463102285,
-       "descricao":"Fatec Indaiatuba - Faculdade de Tecnologia de Indaiatuba Dr. Archimedes Lammoglia",
-       "link":"https://maps.app.goo.gl/fuTqYWVedGniGpF16",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.086585181660574,
-       "lng":-47.21461188711176,
-       "descricao":"Praça Dom Pedro II",
-       "link":"https://maps.app.goo.gl/wqoCGdGMDCgNrb1XA",
-       "class":"turismo"
-    },
-    {
-       "lat":-23.086831428733927,
-       "lng":-47.21496963477099,
-       "descricao":"Centro Cultural Wanderley Peres",
-       "link":"https://maps.app.goo.gl/GnnVjpj6nwaQUzF99",
-       "class":"turismo"
-    },
-    {
-       "lat":-23.090962745631913,
-       "lng":-47.21979920899593,
-       "descricao":"Museu Municipal Antônio Reginaldo Geiss",
-       "link":"https://maps.app.goo.gl/JMdjMGgkGq2Wdgtx8",
-       "class":"turismo"
-    },
-    {
-       "lat":-23.091282785403305,
-       "lng":-47.22257075243346,
-       "descricao":"EMEB Profª Sinésia Martini",
-       "link":"https://maps.app.goo.gl/KxLt6QyGmWuzdpqi7",
-       "class":"educacao"
-    },
-    {
-       "lat":-23.09116670721972,
-       "lng":-47.225893555901436,
-       "descricao":"Parque Ecológico de Indaiatuba",
-       "link":"https://maps.app.goo.gl/CEGEyBGNJfA4qvRTA",
-       "class":"esporte"
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    },
-    {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
-    }
+   {
+     "lat": -23.08742631831144,
+     "lng": -47.20216879909992,
+     "descricao": "Casa da Criança Jesus de Nazaré",
+     "link": "https://maps.app.goo.gl/H4KWHwjPZUbguW9w9",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.09896162497976,
+     "lng": -47.22812192517375,
+     "descricao": "Centro Integrado de Apoio à Educação de Indaiatuba",
+     "link": "https://maps.app.goo.gl/LA19gwb8SwWu9oPW9",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.13196417909728,
+     "lng": -47.227805916861996,
+     "descricao": "Creche Antonio Frederico Ozanam",
+     "link": "https://maps.app.goo.gl/EyCuirkdeULWjv159",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.10011237911951,
+     "lng": -47.23776030337063,
+     "descricao": "Creche Benedito Antônio Misko",
+     "link": "https://maps.app.goo.gl/5xP269hBTvARj14u6",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.067169892218352,
+     "lng": -47.23436713220748,
+     "descricao": "Creche Dom Paulo de Tarso Campos",
+     "link": "https://maps.app.goo.gl/ZuGW9hUZLY5azJTu7",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.122909957813064,
+     "lng": -47.24303003531613,
+     "descricao": "Creche Dona Rosinha Candello",
+     "link": "https://maps.app.goo.gl/vZRwT5vXxgwHPfUv5",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.118359084656937,
+     "lng": -47.23824072446411,
+     "descricao": "Creche Esmeralda Martini Paula",
+     "link": "https://maps.app.goo.gl/bBkn2xeN8PHTPJFg6",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.096702067719477,
+     "lng": -47.27557318987875,
+     "descricao": "Creche Francisca Nadir Ferreira Menk",
+     "link": "https://maps.app.goo.gl/vtgbkbGiVdHEWwng7",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.112814983660357,
+     "lng": -47.228009240400496,
+     "descricao": "Creche José Balduíno De Campos",
+     "link": "https://maps.app.goo.gl/3WrhWyLPVzbj3rNU6",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.1122392697433,
+     "lng": -47.21594277053158,
+     "descricao": "Creche Luciana Cândido Carneiro",
+     "link": "https://maps.app.goo.gl/p5p9dvV9jFiWqppQ7",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.07607460287167,
+     "lng": -47.19240414332534,
+     "descricao": "Creche Municipal Jorge Alves Brown",
+     "link": "https://maps.app.goo.gl/QPUSiQsV4QXv76i89",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.07600329088565,
+     "lng": -47.19235533900826,
+     "descricao": "Creche Municipal Jorge Alves Brown",
+     "link": "https://maps.app.goo.gl/VKHqVm1uMTLpiLbx9",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.125697131054075,
+     "lng": -47.24517458073368,
+     "descricao": "Creche Municipal Prof Lauro Fonseca De Souza",
+     "link": "https://maps.app.goo.gl/XGzk3W8yt15Hz3gG6",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.128378146224307,
+     "lng": -47.24888017488866,
+     "descricao": "Creche Municipal Profª. Maria das Dores Tasca Mendes",
+     "link": "https://maps.app.goo.gl/GBVKrPwB8CyemBgF9",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.067454,
+     "lng": -47.17778,
+     "descricao": "Creche Municipal Vera Tosca M. B.",
+     "link": "https://maps.app.goo.gl/WpD8L6GF5N2HDYKk8",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.108113131935166,
+     "lng": -47.18199018841549,
+     "descricao": "Creche Mãe Rainha",
+     "link": "https://maps.app.goo.gl/1QTzBFhh5yNAYT6BA",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.104637449093598,
+     "lng": -47.21981184553923,
+     "descricao": "Creche Pingo De Gente",
+     "link": "https://maps.app.goo.gl/euLKQpQo5ThYALda6",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.07488366855924,
+     "lng": -47.206208004125905,
+     "descricao": "Creche Prof José Pavani",
+     "link": "https://maps.app.goo.gl/hEwao9pKaxAickJy9",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.053858139163573,
+     "lng": -47.205599301520174,
+     "descricao": "Creche Prof. Ana Maria Pigatto",
+     "link": "https://maps.app.goo.gl/qyX9rzunGLDTuSXf8",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.106738878829717,
+     "lng": -47.21029751900268,
+     "descricao": "Creche Prof. Morivaldo Antonio de Morais",
+     "link": "https://maps.app.goo.gl/zWCQqhwW7c2gFfGn6",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.122757426408235,
+     "lng": -47.23565284907529,
+     "descricao": "Creche Prof. Nízio Vieira",
+     "link": "https://maps.app.goo.gl/Mw5dF8dWiFm8zaye6",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.096325342122977,
+     "lng": -47.20319958207215,
+     "descricao": "Creche Profª. Alice de Mattos Wolf",
+     "link": "https://maps.app.goo.gl/HcAH9WofUSWUPzHt8",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.098201120359466,
+     "lng": -47.214336542967025,
+     "descricao": "Creche Profª. Francisca do Amaral",
+     "link": "https://maps.app.goo.gl/a4r8KMpRHKqG1Fda9",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.106309288583745,
+     "lng": -47.24040610261754,
+     "descricao": "Creche Profª. Lourdes Faleiros Pedro",
+     "link": "https://maps.app.goo.gl/STPgMXbjJos2xSBMA",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.130635810916004,
+     "lng": -47.24798248987795,
+     "descricao": "Creche Profª. Maria Aparecida Misurini",
+     "link": "https://maps.app.goo.gl/6EgABmJCr4UYLuJ76",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.125902920501318,
+     "lng": -47.23092191313566,
+     "descricao": "Creche Profª. Maria Estella Amstalden",
+     "link": "https://maps.app.goo.gl/LFbR8WZxvB5v1gY6A",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.11195097590752,
+     "lng": -47.22786503220637,
+     "descricao": "Creche Profª. Marina Dias de Carvalho Macedo",
+     "link": "https://maps.app.goo.gl/tkidkFR74ZUzE7yA7",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.117153444402597,
+     "lng": -47.24517504569834,
+     "descricao": "Creche Profª. Silvia Lúcia Silva Pinto",
+     "link": "https://maps.app.goo.gl/vc1Yuh1N25w7U4Qs6",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.103455607708568,
+     "lng": -47.23748565397571,
+     "descricao": "Creche Profª. Vania Aparecida Martim de Melo",
+     "link": "https://maps.app.goo.gl/ZTcp1LyWcykWLpej7",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.04948537915488,
+     "lng": -47.23634943220809,
+     "descricao": "Creche Profª. Vera Lúcia Tachinardi Mizurini",
+     "link": "https://maps.app.goo.gl/vgdxsbYCegEsKhXf6",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.06745885014564,
+     "lng": -47.17780204569966,
+     "descricao": "Creche Profª. Vera Tosca Magnusson Belluomini",
+     "link": "https://maps.app.goo.gl/3xieweJjmh7WXWrXA",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.08862968747772,
+     "lng": -47.17186586104286,
+     "descricao": "Creche São José de Anchieta",
+     "link": "https://maps.app.goo.gl/JVEmHS2JaCBqeCwZ6",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.119005248612694,
+     "lng": -47.25210521089633,
+     "descricao": "Creche São Vicente de Paulo",
+     "link": "https://maps.app.goo.gl/mEDKQG4ioAsCygnd8",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.109405890568542,
+     "lng": -47.204743630547284,
+     "descricao": "EE Profª. Deolinda Maneira Severo",
+     "link": "https://maps.app.goo.gl/AuJZ7EXviqaP7uWU7",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.10085895214484,
+     "lng": -47.20890745311422,
+     "descricao": "EMEB / Creche Profª. Janette Vieira Vaqueiro",
+     "link": "https://maps.app.goo.gl/hRwC5rAWyRtjmpsc6",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.060636407644047,
+     "lng": -47.21984878987974,
+     "descricao": "EMEB / Creche Profª. Joanna Gurgel",
+     "link": "https://maps.app.goo.gl/SXNJsavprrbHc8Gz8",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.11961221763049,
+     "lng": -47.234803153192026,
+     "descricao": "EMEB Amiguinhos de Jesus",
+     "link": "https://maps.app.goo.gl/y3k4DcBZk85MASJW7",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.08998949831382,
+     "lng": -47.20114376495235,
+     "descricao": "EMEB Archimedes Prandini",
+     "link": "https://maps.app.goo.gl/q4eXwv8E9iN6xenYA",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.136143066345674,
+     "lng": -47.167620915104706,
+     "descricao": "EMEB Doardo Borsari",
+     "link": "https://maps.app.goo.gl/bJBxRuUH4q6CrMxVA",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.116499837342147,
+     "lng": -47.223246696286566,
+     "descricao": "EMEB Leonardo Braz Zuppa",
+     "link": "https://maps.app.goo.gl/V2ADUWTwPx9rEbsn8",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.106678193811213,
+     "lng": -47.21260954468721,
+     "descricao": "EMEB Maria João de Campos",
+     "link": "https://maps.app.goo.gl/jBtkRCb27v8yEYGg6",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.090822222490505,
+     "lng": -47.192183255158355,
+     "descricao": "EMEB Miyoji Takahara",
+     "link": "https://maps.app.goo.gl/3w4sGLSwdN49ACWu7",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.112943824880897,
+     "lng": -47.228952029139585,
+     "descricao": "EMEB Padre Joaquim Aparecido Rocha",
+     "link": "https://maps.app.goo.gl/chVqxDNp3oHEFsMJ9",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.061208816315844,
+     "lng": -47.21980920987831,
+     "descricao": "EMEB Prof Antonio Luiz Balaminuti",
+     "link": "https://maps.app.goo.gl/xRwn7Pqtzcnrq7gg7",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.073770097194057,
+     "lng": -47.19444879478326,
+     "descricao": "EMEB Prof João Emílio Angelieri",
+     "link": "https://maps.app.goo.gl/m3rfDWRRfCNrn6S39",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.106889748156497,
+     "lng": -47.226168723881976,
+     "descricao": "EMEB Prof. Aparecido Batista Dos Santos",
+     "link": "https://maps.app.goo.gl/mPahKSagMS4ATAHSA",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.10141964463863,
+     "lng": -47.237999394586154,
+     "descricao": "EMEB Prof. João Baptista de Macedo",
+     "link": "https://maps.app.goo.gl/f6o1knQmtcCN1rdU9",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.080820489203276,
+     "lng": -47.19851687453527,
+     "descricao": "EMEB Prof. João Marinho Filho",
+     "link": "https://maps.app.goo.gl/4mibJScyWv1BiJJn9",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.124957842622422,
+     "lng": -47.23865498129398,
+     "descricao": "EMEB Prof. Leonel José Vitorino Ribeiro",
+     "link": "https://maps.app.goo.gl/sp1ZdtTsXJzsaGP99",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.12102244738559,
+     "lng": -47.24662827453419,
+     "descricao": "EMEB Prof. Luiz Carlos Batista de Moura",
+     "link": "https://maps.app.goo.gl/Nm4rwph8yQddFdop7",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.112628562603646,
+     "lng": -47.22847460034525,
+     "descricao": "EMEB Prof. Oswaldo Antonio Tuon",
+     "link": "https://maps.app.goo.gl/aoJN7qPNG1fvEchGA",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.090515402518356,
+     "lng": -47.18936630511939,
+     "descricao": "EMEB Prof. Osório Germano e Silva Filho",
+     "link": "https://maps.app.goo.gl/F9QPwoAjuFiAQyws7",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.100477540874227,
+     "lng": -47.21067413761007,
+     "descricao": "EMEB Prof. Sérgio Mário de Almeida",
+     "link": "https://maps.app.goo.gl/Wtf28cyNjetqD4Wo9",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.076501076254637,
+     "lng": -47.19231301639584,
+     "descricao": "EMEB Prof. Wellington Lombardi Soares",
+     "link": "https://maps.app.goo.gl/xjoZ3G3KWbZB3Csf6",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.109099430477936,
+     "lng": -47.20569023798384,
+     "descricao": "EMEB Prof. Wladimir Olivier",
+     "link": "https://maps.app.goo.gl/eraE1hRsAKB4mTXR7",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.130402268667574,
+     "lng": -47.2388751077293,
+     "descricao": "EMEB Profª. Elizabeth de Lourdes Cardeal Sigrist",
+     "link": "https://maps.app.goo.gl/qHU7wJXsykBgNB4W6",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.10393401439749,
+     "lng": -47.23768486580013,
+     "descricao": "EMEB Profª. Francisca Lucinda Bueno",
+     "link": "https://maps.app.goo.gl/rnJHF1nSUbYF8ZwHA",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.068686,
+     "lng": -47.177861,
+     "descricao": "EMEB Profª. Maria Albertina Bannwart Berdu",
+     "link": "https://maps.app.goo.gl/XobgUB4M5FPikcb68",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.116548535137014,
+     "lng": -47.23973650056933,
+     "descricao": "EMEB Profª. Maria Benedicta Guimarães",
+     "link": "https://maps.app.goo.gl/bJ6b1wCr66G4NQQ88",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.072932267628175,
+     "lng": -47.20701820522309,
+     "descricao": "EMEB Profª. Maria Cecília Ifanger",
+     "link": "https://maps.app.goo.gl/xeNS6kNzZnH2BvyL8",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.07877790696232,
+     "lng": -47.199541793426185,
+     "descricao": "EMEB Profª. Maria Conceição Giacomini Bega",
+     "link": "https://maps.app.goo.gl/grRJaTzi1hxyjbcb8",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.109572847163015,
+     "lng": -47.237778052073594,
+     "descricao": "EMEB Profª. Maria Ignêz Pinezzi",
+     "link": "https://maps.app.goo.gl/M5zpGYUJUQ2ccHpk9",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.128184693216504,
+     "lng": -47.248229373232036,
+     "descricao": "EMEB Profª. Maria José Ambiel Marachini",
+     "link": "https://maps.app.goo.gl/atmCYWNbgHvPU59VA",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.100469448336764,
+     "lng": -47.25422736279684,
+     "descricao": "EMEB Profª. Maria José Arruda Salvadori Martinhão",
+     "link": "https://maps.app.goo.gl/6T3UXgNgjWtZ4vD66",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.11345172534675,
+     "lng": -47.2297876087737,
+     "descricao": "EMEB Profª. Maria José de Campos",
+     "link": "https://maps.app.goo.gl/WpbeqBAM6JYyVDFV8",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.11891201075106,
+     "lng": -47.234137458799715,
+     "descricao": "EMEB Profª. Maria Nazareth Pimentel",
+     "link": "https://maps.app.goo.gl/bQnBGdgsMQgArvCc6",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.12089405505135,
+     "lng": -47.24726465270723,
+     "descricao": "EMEB Profª. Patrocínia Robles Provenza",
+     "link": "https://maps.app.goo.gl/Jy2WFsiZtK7YnwCQA",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.054782,
+     "lng": -47.209005,
+     "descricao": "EMEB Profª. Renata Guimarães Brandão Anadão",
+     "link": "https://maps.app.goo.gl/3gTiyPWg1SLXVhjK7",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.091282785403305,
+     "lng": -47.22257075243346,
+     "descricao": "EMEB Profª. Sinésia Martini",
+     "link": "https://maps.app.goo.gl/KxLt6QyGmWuzdpqi7",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.105855084622384,
+     "lng": -47.22056695174509,
+     "descricao": "EMEB Profª. Suely Terezinha Amstalden",
+     "link": "https://maps.app.goo.gl/8DiLnKSMg7NZrrcs5",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.089047173148735,
+     "lng": -47.172031034914504,
+     "descricao": "EMEB Profª. Sylvia T. de Camargo Sannazzaro",
+     "link": "https://maps.app.goo.gl/sty9svjTf6JGryF1A",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.096848323357804,
+     "lng": -47.27530707453484,
+     "descricao": "EMEB Profª. Walda Maria Stocco Prandini",
+     "link": "https://maps.app.goo.gl/WrXrubL7RGzujvUDA",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.111712565998243,
+     "lng": -47.21585761570001,
+     "descricao": "EMEB Profª. Yolanda Steffen",
+     "link": "https://maps.app.goo.gl/ChpfaLhq1tz6aumq9",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.079672394794354,
+     "lng": -47.20175600704757,
+     "descricao": "EMEB Vicente Bernardinetti",
+     "link": "https://maps.app.goo.gl/nGGgFX4dUYL3wCLN6",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.122437510006897,
+     "lng": -47.23632372434364,
+     "descricao": "EMEB do Complexo Educacional Prof. Nízio Vieira - Unidade Fundamental",
+     "link": "https://maps.app.goo.gl/MwSNtt2ZQsfkS5Z58",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.122578497801936,
+     "lng": -47.23711019913583,
+     "descricao": "EMEB do Complexo Educacional Prof. Nízio Vieira - Unidade Infantil",
+     "link": "https://maps.app.goo.gl/a8Z4H4qNSbhnNeis6",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.109295589799284,
+     "lng": -47.20498201557711,
+     "descricao": "EMEB e Creche Prof. Galdino Augusto Lopes Chagas",
+     "link": "https://maps.app.goo.gl/FPoqKS5ZULqY1y9Q8",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.09804269686104,
+     "lng": -47.203633823311314,
+     "descricao": "Escola Municipal Ambiental Bosque do Saber",
+     "link": "https://maps.app.goo.gl/n6zJxgBCrpMPS8aF7",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.063474,
+     "lng": -47.139385,
+     "descricao": "Escola Municipal Dom Ildefonso Stehle",
+     "link": "https://maps.app.goo.gl/CLL9wk5TB5KJb1Yj9",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.078952239859717,
+     "lng": -47.218227407057505,
+     "descricao": "Escola Municipal de Educação Infantil Lucia Steffen Profa",
+     "link": "https://maps.app.goo.gl/uCJ6MDEVARwiYC9x6",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.09782556502431,
+     "lng": -47.22412402730256,
+     "descricao": "Espaço Avançar - EMEB Profª. Elvira Maffei",
+     "link": "https://maps.app.goo.gl/r33gERHRUyFbiD3dA",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.085954763949346,
+     "lng": -47.20257463102285,
+     "descricao": "Fatec Indaiatuba - Faculdade de Tecnologia de Indaiatuba Dr. Archimedes Lammoglia",
+     "link": "https://maps.app.goo.gl/fuTqYWVedGniGpF16",
+     "class": "educacao"
+   },
+   {
+     "lat": -23.091982333111034,
+     "lng": -47.1923762346479,
+     "descricao": "Associação Cultural Esportiva Nipo Brasileira de Indaiatuba",
+     "link": "https://maps.app.goo.gl/jW3tdZhyMHTDkrWc9",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.128192008018,
+     "lng": -47.24875006731142,
+     "descricao": "Campo do Jardim Paulistano",
+     "link": "https://maps.app.goo.gl/xZyAFxSYzicumrf6A",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.122483654836604,
+     "lng": -47.24452710889268,
+     "descricao": "Campo do São Conrado",
+     "link": "https://maps.app.goo.gl/5mePbg97j88cXj977",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.108512459290957,
+     "lng": -47.21487120771789,
+     "descricao": "Centro Esportivo Califórnia",
+     "link": "https://maps.app.goo.gl/g6z16RzTcg4bWWSf9",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.108524021155475,
+     "lng": -47.214857631187826,
+     "descricao": "Centro Esportivo Califórnia",
+     "link": "https://maps.app.goo.gl/4Jmqd3uDTQonXuy67",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.07743294159959,
+     "lng": -47.2017094151418,
+     "descricao": "Centro Esportivo Doutor José Pedro C. da Silva",
+     "link": "https://maps.app.goo.gl/WBjyxX1Qq2ZG3Mcz7",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.109640905228623,
+     "lng": -47.23806665377888,
+     "descricao": "Centro de Lutas João Pioli",
+     "link": "https://maps.app.goo.gl/jA1YxjmtkNyR7wnW9",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.091170287563333,
+     "lng": -47.202849614815634,
+     "descricao": "Centro de Treinamento de Ginástica",
+     "link": "https://maps.app.goo.gl/UbMFtQnAaYo7QYKX6",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.068857,
+     "lng": -47.17739,
+     "descricao": "Complexo Esportivo Carlos Aldrovandi",
+     "link": "https://maps.app.goo.gl/UMxfdLuBtDqYK4nY7",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.12041277712407,
+     "lng": -47.227150902498956,
+     "descricao": "Complexo Esportivo Morada do Sol",
+     "link": "https://maps.app.goo.gl/SbtXLtmRgoSDRUE27",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.078736942090057,
+     "lng": -47.218114361152054,
+     "descricao": "Espaço Bem Viver Mario Jacinto da Silva",
+     "link": "https://maps.app.goo.gl/sEF228dJ74VhRD7D9",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.10304453346851,
+     "lng": -47.237386468293415,
+     "descricao": "Núcleo Esportivo Educando para a Vida",
+     "link": "https://maps.app.goo.gl/aYFdRVbwohh57Qja9",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.09116670721972,
+     "lng": -47.225893555901436,
+     "descricao": "Parque Ecológico de Indaiatuba",
+     "link": "https://maps.app.goo.gl/CEGEyBGNJfA4qvRTA",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.101736459962844,
+     "lng": -47.22876548481119,
+     "descricao": "Parque Temático",
+     "link": "https://maps.app.goo.gl/QycCPhHoGhUDawaZA",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.091840430263684,
+     "lng": -47.22494555171295,
+     "descricao": "Pista de Bicicross Luís Cláudio Katayama",
+     "link": "https://maps.app.goo.gl/NGy7jFjwxot1Ceo47",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.08862072961764,
+     "lng": -47.22514075043847,
+     "descricao": "Pista de Skate - Parque Ecológico",
+     "link": "https://maps.app.goo.gl/NiWNAi7dxbM7uPTH6",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.11549612829069,
+     "lng": -47.2346090313221,
+     "descricao": "Polo Esportivo Cláudio Urbini Freitas (Quadra 23)",
+     "link": "https://maps.app.goo.gl/ajqjRusjTDXFrcrT8",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.1124311704393,
+     "lng": -47.204125319049666,
+     "descricao": "Praça Centro Recreativo e de Lazer Jurandir Lu da Silva",
+     "link": "https://maps.app.goo.gl/JcDsXdkGbwbQcast5",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.105393278887206,
+     "lng": -47.238376988493414,
+     "descricao": "Praça Esperanto",
+     "link": "https://maps.app.goo.gl/WgXhp8nPGsWNYYim9",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.10939934678458,
+     "lng": -47.23862987273695,
+     "descricao": "Praça GCM Antonio Marcos Bezerra",
+     "link": "https://maps.app.goo.gl/HGfV51YwwQ9FRWdbA",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.11474483992731,
+     "lng": -47.22130770310543,
+     "descricao": "SESI",
+     "link": "https://maps.app.goo.gl/gUWUVDGxNwgHUzFo9",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.093298008462835,
+     "lng": -47.19438884422488,
+     "descricao": "Teatro Municipal",
+     "link": "https://maps.app.goo.gl/pgLm5XzAeCqTzF3K6",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.097805185449733,
+     "lng": -47.22757421686292,
+     "descricao": "Velódromo Municipal Joaraci Mariano de Barros",
+     "link": "https://maps.app.goo.gl/wvRbXywkcRskYdgDA",
+     "class": "esporte"
+   },
+   {
+     "lat": -23.119603435768298,
+     "lng": -47.23412720919973,
+     "descricao": "Central de Ambulâncias",
+     "link": "https://maps.app.goo.gl/bieHCzhNE21ek44fA",
+     "class": "saude"
+   },
+   {
+     "lat": -23.12215757387536,
+     "lng": -47.23372437813645,
+     "descricao": "DEREFIM",
+     "link": "https://maps.app.goo.gl/HQfRrQZLSA6UWstVA",
+     "class": "saude"
+   },
+   {
+     "lat": -23.09279840515474,
+     "lng": -47.213924732703155,
+     "descricao": "Hospital Augusto de Oliveira Camargo",
+     "link": "https://maps.app.goo.gl/1NfcWdkHeFngxfw69",
+     "class": "saude"
+   },
+   {
+     "lat": -23.08808818255655,
+     "lng": -47.20245749797731,
+     "descricao": "Hospital Dia",
+     "link": "https://maps.app.goo.gl/VKRTFNr89X96N8Mf8",
+     "class": "saude"
+   },
+   {
+     "lat": -23.068038,
+     "lng": -47.178219,
+     "descricao": "PSF Jardim Carlos Aldrovandi",
+     "link": "https://maps.app.goo.gl/pxYErLNZSDM76QCZA",
+     "class": "saude"
+   },
+   {
+     "lat": -23.132900356754377,
+     "lng": -47.24245661823041,
+     "descricao": "PSF Parque Corolla",
+     "link": "https://maps.app.goo.gl/rs1xDZc6gFDC8bda8",
+     "class": "saude"
+   },
+   {
+     "lat": -23.064151539829137,
+     "lng": -47.21747040192905,
+     "descricao": "PSF Parque Indaiá",
+     "link": "https://maps.app.goo.gl/YBL6BJMGcDcFweVb6",
+     "class": "saude"
+   },
+   {
+     "lat": -23.09523240362248,
+     "lng": -47.276301068701464,
+     "descricao": "UBS Campo Bonito",
+     "link": "https://maps.app.goo.gl/WbtrnqYRxyBYvidB9",
+     "class": "saude"
+   },
+   {
+     "lat": -23.102980216180523,
+     "lng": -47.21902806439289,
+     "descricao": "UBS II",
+     "link": "https://maps.app.goo.gl/zdRUoD6T6wTuaSWM6",
+     "class": "saude"
+   },
+   {
+     "lat": -23.118465745614465,
+     "lng": -47.23538605792147,
+     "descricao": "UBS IV",
+     "link": "https://maps.app.goo.gl/v8uxyrFq4Tw3NdxX9",
+     "class": "saude"
+   },
+   {
+     "lat": -23.08172259543578,
+     "lng": -47.21460904694381,
+     "descricao": "UBS IX Centro",
+     "link": "https://maps.app.goo.gl/zXRYCsmnR89GHDMHA",
+     "class": "saude"
+   },
+   {
+     "lat": -23.121549009456597,
+     "lng": -47.25463927429744,
+     "descricao": "UBS Jardim das Maritacas",
+     "link": "https://maps.app.goo.gl/8avHqgMUXZjSuD5e7",
+     "class": "saude"
+   },
+   {
+     "lat": -23.106065773219484,
+     "lng": -47.23711466654207,
+     "descricao": "UBS Jd João Pioli",
+     "link": "https://maps.app.goo.gl/5dyJZ4JZnzG7mLYU7",
+     "class": "saude"
+   },
+   {
+     "lat": -23.109354500822025,
+     "lng": -47.204456622745305,
+     "descricao": "UBS Jd Oliveira Camargo",
+     "link": "https://maps.app.goo.gl/eSX1ZEFNFZSVG2Rg7",
+     "class": "saude"
+   },
+   {
+     "lat": -23.103690188728223,
+     "lng": -47.20358922654367,
+     "descricao": "UBS Jd. Umuarama",
+     "link": "https://maps.app.goo.gl/vwTAEsd3wXeY9dEF9",
+     "class": "saude"
+   },
+   {
+     "lat": -23.123336042734874,
+     "lng": -47.24088423884541,
+     "descricao": "UBS VII",
+     "link": "https://maps.app.goo.gl/KjTbG7mqAHXKo5TA8",
+     "class": "saude"
+   },
+   {
+     "lat": -23.10835110181016,
+     "lng": -47.213872830952674,
+     "descricao": "UBS X",
+     "link": "https://maps.app.goo.gl/gFo1jqpjX6CXNoMD9",
+     "class": "saude"
+   },
+   {
+     "lat": -23.11962658081093,
+     "lng": -47.23392076648584,
+     "descricao": "UPA",
+     "link": "https://maps.app.goo.gl/VX5Ng9swvoXgNSEY7",
+     "class": "saude"
+   },
+   {
+     "lat": -23.109806819877836,
+     "lng": -47.20218525053492,
+     "descricao": "CRAS I",
+     "link": "https://maps.app.goo.gl/tZmh9bT1ErWF2HRw5",
+     "class": "social"
+   },
+   {
+     "lat": -23.08816564920366,
+     "lng": -47.16664483557818,
+     "descricao": "CRAS II",
+     "link": "https://maps.app.goo.gl/FXevfBM6pT2EfhTH7",
+     "class": "social"
+   },
+   {
+     "lat": -23.13072722252486,
+     "lng": -47.24313497428984,
+     "descricao": "CRAS III",
+     "link": "https://maps.app.goo.gl/vCw6TRGxoR7FqhjEA",
+     "class": "social"
+   },
+   {
+     "lat": -23.11953956505912,
+     "lng": -47.246512648535635,
+     "descricao": "CRAS IV",
+     "link": "https://maps.app.goo.gl/tdqo8ehcywufA3PbA",
+     "class": "social"
+   },
+   {
+     "lat": -23.062059,
+     "lng": -47.13783,
+     "descricao": "CRAS V",
+     "link": "https://maps.app.goo.gl/hzyERjV4AvYqGMMy8",
+     "class": "social"
+   },
+   {
+     "lat": -23.098748169395108,
+     "lng": -47.21459995318402,
+     "descricao": "Centro de Referência Especializado de Assistência Social",
+     "link": "https://maps.app.goo.gl/1hE6uXpZppxfrtLLA",
+     "class": "social"
+   },
+   {
+     "lat": -23.106163199653537,
+     "lng": -47.24108535648806,
+     "descricao": "Ecoponto João Pioli",
+     "link": "https://maps.app.goo.gl/2oEcowQURnvGsZF87",
+     "class": "social"
+   },
+   {
+     "lat": -23.097895426627097,
+     "lng": -47.22359490860819,
+     "descricao": "Gaadin - Grupo de Ajuda dos Amigos Deficientes de Indaiatuba",
+     "link": "https://maps.app.goo.gl/4kmp6b6EJAv7BwV58",
+     "class": "social"
+   },
+   {
+     "lat": -23.119412949155123,
+     "lng": -47.234414932233435,
+     "descricao": "Antiga Sede da Fazenda Engenho d'Água",
+     "link": "https://maps.app.goo.gl/jCYKJKs3rLaLzd497",
+     "class": "turismo"
+   },
+   {
+     "lat": -23.122364231403214,
+     "lng": -47.23269413393966,
+     "descricao": "Centro Cultural Hermenegildo Pinto - \"Piano\"",
+     "link": "https://maps.app.goo.gl/bCLX7AGBzzYPdEar7",
+     "class": "turismo"
+   },
+   {
+     "lat": -23.086831428733927,
+     "lng": -47.21496963477099,
+     "descricao": "Centro Cultural Wanderley Peres",
+     "link": "https://maps.app.goo.gl/GnnVjpj6nwaQUzF99",
+     "class": "turismo"
+   },
+   {
+     "lat": -23.093085996683396,
+     "lng": -47.21653930833307,
+     "descricao": "Centro de Convenções Aydil Pinesi Bonachella e Secretaria Municipal da Cultura",
+     "link": "https://maps.app.goo.gl/JMMzggiZqNjdiZFw9",
+     "class": "turismo"
+   },
+   {
+     "lat": -23.07683850559436,
+     "lng": -47.21519556845309,
+     "descricao": "Concha Acústica",
+     "link": "https://maps.app.goo.gl/kR52BPhF18Sutgve9",
+     "class": "turismo"
+   },
+   {
+     "lat": -23.123927524922006,
+     "lng": -47.24749427705024,
+     "descricao": "Floresta Parque",
+     "link": "https://maps.app.goo.gl/p2uvYi6vjKpPikzm8",
+     "class": "turismo"
+   },
+   {
+     "lat": -23.092034985046364,
+     "lng": -47.216736233485385,
+     "descricao": "Museu Ferroviário",
+     "link": "https://maps.app.goo.gl/gjxiz6rdvwi9SRvM9",
+     "class": "turismo"
+   },
+   {
+     "lat": -23.090962745631913,
+     "lng": -47.21979920899593,
+     "descricao": "Museu Municipal Antônio Reginaldo Geiss",
+     "link": "https://maps.app.goo.gl/JMdjMGgkGq2Wdgtx8",
+     "class": "turismo"
+   },
+   {
+     "lat": -23.084421570875485,
+     "lng": -47.181714880581296,
+     "descricao": "Museu da Água de Indaiatuba",
+     "link": "https://maps.app.goo.gl/EDbDqGGyRrm2W3VC8",
+     "class": "turismo"
+   },
+   {
+     "lat": -23.086621842739856,
+     "lng": -47.189352771994876,
+     "descricao": "Parque das Frutas",
+     "link": "https://maps.app.goo.gl/afE7j8gf8rX7kVg58",
+     "class": "turismo"
+   },
+   {
+     "lat": -23.086585181660574,
+     "lng": -47.21461188711176,
+     "descricao": "Praça Dom Pedro II",
+     "link": "https://maps.app.goo.gl/wqoCGdGMDCgNrb1XA",
+     "class": "turismo"
+   },
+   {
+     "lat": -23.119554686733565,
+     "lng": -47.246427466620744,
+     "descricao": "Sala de Leitura Laura Fahl Corrêa",
+     "link": "https://maps.app.goo.gl/KQWuCBiGYe7Zafdn6",
+     "class": "turismo"
+   },
+   {
+     "lat": -23.063741197441278,
+     "lng": -47.26069516254738,
+     "descricao": "Trilha Indaiatuba",
+     "link": "https://maps.app.goo.gl/2UHCWpTJrW1AxbFJ6",
+     "class": "turismo"
+   },
+   {
+     "lat": -23.113228199971918,
+     "lng": -47.18589642795672,
+     "descricao": "Vila Manresa",
+     "link": "https://maps.app.goo.gl/CGAUDjSx1bjYkU2v5",
+     "class": "turismo"
+   }
  ]
