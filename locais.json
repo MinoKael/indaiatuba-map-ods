@@ -294,39 +294,39 @@
        "class":"educacao"
     },
     {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
+       "lat":-23.086585181660574,
+       "lng":-47.21461188711176,
+       "descricao":"Praça Dom Pedro II",
+       "link":"https://maps.app.goo.gl/wqoCGdGMDCgNrb1XA",
+       "class":"turismo"
     },
     {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
+       "lat":-23.086831428733927,
+       "lng":-47.21496963477099,
+       "descricao":"Centro Cultural Wanderley Peres",
+       "link":"https://maps.app.goo.gl/GnnVjpj6nwaQUzF99",
+       "class":"turismo"
     },
     {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
+       "lat":-23.090962745631913,
+       "lng":-47.21979920899593,
+       "descricao":"Museu Municipal Antônio Reginaldo Geiss",
+       "link":"https://maps.app.goo.gl/JMdjMGgkGq2Wdgtx8",
+       "class":"turismo"
     },
     {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
+       "lat":-23.091282785403305,
+       "lng":-47.22257075243346,
+       "descricao":"EMEB Profª Sinésia Martini",
+       "link":"https://maps.app.goo.gl/KxLt6QyGmWuzdpqi7",
+       "class":"educacao"
     },
     {
-       "lat":0,
-       "lng":0,
-       "descricao":"",
-       "link":"",
-       "class":""
+       "lat":-23.09116670721972,
+       "lng":-47.225893555901436,
+       "descricao":"Parque Ecológico de Indaiatuba",
+       "link":"https://maps.app.goo.gl/CEGEyBGNJfA4qvRTA",
+       "class":"esporte"
     },
     {
        "lat":0,
