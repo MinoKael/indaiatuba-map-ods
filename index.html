@@ -40,11 +40,11 @@
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         }).addTo(map);
         legendas = [
-            { nome: "Unidades Públicas de Saúde", cor: "#ff73df", },
+            { nome: "Unidades Públicas de Saúde", cor: "#c848b8", },
             { nome: "Unidades de Assistência Social", cor: "#ff0000", },
-            { nome: "Unidades Públicas de Educação", cor: "#54ff00", },
+            { nome: "Unidades Públicas de Educação", cor: "#458500", },
             { nome: "Pontos Turísticos e Equipamentos de Cultura", cor: "#0084a8", },
-            { nome: "Equipamentos de Esporte e Lazer", cor: "#cb8d3c", },
+            { nome: "Equipamentos de Esporte e Lazer", cor: "#ff8418", },
         ];
 
         var legendaBox = L.control({ position: 'bottomleft' });
@@ -63,6 +63,9 @@
                     const marker = L.marker([local.lat, local.lng], { title: local.descricao }).addTo(map)
                     .bindPopup("<b>" + local.descricao + "</b></br><a target='_blank' href='"+ local.link +"'>Ver no Google Maps</a>");
                     marker._icon.classList.add(local.class);
+                    marker.on('mouseover',function(ev) {
+                        marker.openPopup();
+                    });
                 });
             })
         
